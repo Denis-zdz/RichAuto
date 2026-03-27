@@ -1,0 +1,30 @@
+#title{
+    color: white; 
+    line-height: 8px;
+    background-color: orange;
+    text-align: center;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    height: 50px;
+}
+#inquire{
+    text-indent: 1em;
+    background-color: cyan;
+    border-bottom: 1px solid black;
+    height: 40px;
+    line-height: 40px;
+}
+.odd{
+    text-indent: 2em;
+    background-color: white;
+    border-bottom: 1px solid black;
+    height: 40px;
+    line-height: 40px;
+}
+.uneven{
+    text-indent: 2em;
+    background-color: aliceblue;
+    border-bottom: 1px solid black;
+    height: 40px;
+    line-height: 40px;
+}
